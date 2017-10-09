@@ -65,10 +65,10 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
-    "prop-types": "^15.5.8",
-    "raf": "^3.2.0"
+    "prop-types": "^15.6.0",
+    "raf": "^3.4.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.1"
+    "react": "^0.14.0 || ^15.0.1 || ^16.0.0"
   }
 }
